@@ -120,10 +120,13 @@ app.use((req,res,next)=>{
 //         username:"delta-student",
 
 //     });
-//     let newUser= await User.register(fakeUser,"helloworld");
+//     let newUs9er= await User.register(fakeUser,"helloworld");
 //     res.send(newUser);
 // });
 
+app.get("/",(req,res)=>{
+    res.redirect("/listings");
+});
 
 
 
