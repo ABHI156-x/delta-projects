@@ -8,7 +8,7 @@ https://delta-projects-gv9x.onrender.com
 - Dynamic property listing page
 - User signup and login
 - Map feature for airbnb location
-- 
+ 
 
 ## Tech Stack
 ➤ Frontend
