@@ -1,7 +1,7 @@
 # Airbnb Clone — WanderLust
 
 A full-stack Airbnb-like application deployed at:
-https://delta-projects-gv9x.onrender.com
+ https://delta-projects-ntcx.onrender.com
 
 ## Features
 
